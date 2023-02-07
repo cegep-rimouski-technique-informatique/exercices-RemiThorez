@@ -8,14 +8,41 @@
     <div width="100px">
     <fieldset width="100px">
         <legend>Coordonnées</legend>
-         <form>
+         <form method="post">
              <table>
                 <!-- Exemple de champs -->
                  <tr>
                      <td><label>Identifiant</label></td>
-                      <td><input type="text" name="identifiant"></td>
+                      <td><input type="text" name="identifiant" autofocus></td>
                  </tr>
                  <!-- Continuez ici -->
+                 <tr>
+                    <td><label>Mot de passe</label></td>
+                    <td><input type="password" name="passWord"></td>
+                 </tr>
+                 <tr>
+                     <td><input type="hidden" name="operations"></td>
+                </tr>
+                 <tr>
+                    <td><label>Téléphone</label></td>
+                    <td><input type="tel" name="Téléphone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="418-725-5555"></td>
+                 </tr>
+                 <tr>
+                    <td><label>Date : </label></td>
+                    <td><input type="date" name="date"></td>
+                 </tr>
+                 <tr>
+                    <td><label>Votre fichier:</label></td>
+                    <td><input type="file" name="fichier" src="index.html"></td>
+                 </tr>
+                 <tr>
+                    <td><label>Commentaire :</label></td>
+                    <td><textarea></textarea> </td>
+                 </tr>
+                 <tr>
+                    <td><label>Envoyer</label></td>
+                    <td><input type="submit" name="boutonEnvoyer"> </td>
+                 </tr>
              </table>
          </form>
     </fieldset>
