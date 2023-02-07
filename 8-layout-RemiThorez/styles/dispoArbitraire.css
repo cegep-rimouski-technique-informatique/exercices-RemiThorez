@@ -1,0 +1,30 @@
+div{
+    border: 1px solid black;
+    position: absolute;
+    background-color: white;
+}
+
+#div1{
+    width: 15rem;
+    height: 10rem;
+    top: 15px;
+    left: 5px;
+}
+#div2{
+    width: 10rem;
+    height: 10rem;
+    top: 50px;
+    left:150px;
+}
+#div3{
+    width: 5rem;
+    height: 20rem;
+    top: 10px;
+    left: 300px;
+}
+#div4{
+    width: 20rem;
+    height: 5rem;
+    top: 300px;
+    left: 10px;
+}

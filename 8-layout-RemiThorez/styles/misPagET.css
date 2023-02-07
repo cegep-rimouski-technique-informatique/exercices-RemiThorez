@@ -1,0 +1,33 @@
+.entete{
+width: 800px;
+height: 150px;
+border: 1px solid black;
+position: relative;
+}
+
+.logo{
+    position: absolute;
+    width: 380px;
+    height: 65px;
+    top: 4px;
+    left: 4px;
+    border: 1px solid black;
+}
+
+.topMenu{
+    position: absolute;
+    width: 200px;
+    height: 20px;
+    top: 4px;
+    left: 594px;
+    border: 1px solid black;
+}
+
+.menu{
+    position: absolute;
+    width: 600px;
+    height: 20px;
+    top: 125px;
+    left: 194px;
+    border: 1px solid black;
+}

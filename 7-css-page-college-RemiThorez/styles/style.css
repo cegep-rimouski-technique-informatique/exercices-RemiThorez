@@ -1,0 +1,120 @@
+/* Font setup 
+  Vous pouvez en ajouter pour utiliser vos polices téléchargées
+*/
+
+@font-face {
+  font-family: "AmpleSoft";
+  src: url("./fonts/AmpleSoftProMedium.ttf");
+}
+
+@font-face {
+  font-family: SansSerif;
+  src: url("fonts/sans-serif.otf");
+}
+
+/* General setup */
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-size: 10px;
+    margin: 0 auto;
+    min-width: 1000px;
+    max-width: 1400px;
+    font-family: "EB Garamond", serif;
+  }
+  
+  /* Layout */
+  
+  section {
+    float: left;
+    width: 50%;
+    
+    
+  }
+  
+  aside {
+    float: left;
+    width: 30%;
+  }
+  
+  nav {
+    float: left;
+    width: 20%;
+  }
+  
+  footer {
+    clear: both;
+  }
+  
+  header, section, aside, nav, footer {
+    padding: 20px;
+  }
+  
+  /* header and footer */
+  
+  header, footer {
+    border-top: 5px solid #a66;
+    border-bottom: 5px solid #a66;
+    text-align: center;
+  }
+  
+  /* WRITE YOUR CODE BELOW HERE */
+
+  h2{
+    font-family: "Times New Roman", serif;
+    font-size: 18px;
+    letter-spacing: 3px;
+  }
+
+  h1{
+    font-size: 22px;
+    letter-spacing: 5px;
+  }
+
+  p{
+    line-height:215%;
+    letter-spacing: 1.5px;
+    word-spacing: 2px;
+  }
+  #para1 {
+    text-indent: 20px;
+  }
+
+  #imgExtLink{
+    height: 2.5%;
+    width: 2.5%;
+  }
+  a{
+    color:#a66;
+  }
+
+  a:hover{
+    text-decoration: none;
+  }
+  a:active{
+    text-decoration:solid;
+  }
+
+  #menuBouton div{
+    margin: 5px;
+    height: 3.5rem;
+    width: 10rem;
+    border: 3px solid #a66;
+    text-align: center;
+    padding-top: 0.875rem;
+  }
+
+  #menuBouton a{
+    text-decoration: none;
+    font-size: large;
+  }
+
+  ul{
+    line-height:215%;
+    letter-spacing: 1.5px;
+    word-spacing: 2px;
+    list-style:circle;
+  }

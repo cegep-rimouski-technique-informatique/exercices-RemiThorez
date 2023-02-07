@@ -1,0 +1,48 @@
+Maxence St-Laurent
+Rémi Thorez
+
+ * Site Web "Mauvais" http://www.roverp6parts.com
+
+  -  Quelle est votre première impression du site ? :
+
+			Notre première impression du site est un site désordonné et peu professionnel.
+		Il y a beaucoup de couleur différente et beaucoup d'images qui semblent inutiles.
+		Menu pas très clair et long, il fait toute la page ce qui peut être chiant à naviguer.
+		Pour conclure, le site n'est pas très accueillant, il est clairement trop chargé visuellement.
+		Notre pensée finale est qu'on dirait le dessin d'un enfant.
+
+  -  À quels besoins le site web cherche à remplir ? :
+
+			Probablement la promotion d'un site de vente de pièces de véhicule et/ou la vente de véhicule usagers.
+		Après avoir fouillé plus attentivement, il fait aussi la promotion d'événement
+		écrit en portugais et en anglais pour une rencontre entre personne ayant une/des voitures de collections.
+
+  -  Quelles règles d'ergonomie le site enfreint-il ?
+
+			Il y a une surcharge de contenu que ce soit la couleur ou les images.
+		Aussi, le site semble assez désordonné (Aucune structure simple et qui fait du sens),
+		il n'est pas intuitif a utilisé et le choix des différentes couleurs 
+		est très agressant, tu ne te sens pas le bienvenu. 
+		C'est aussi difficile de déterminer qu'est-ce qui est un simple lien et ce qui est une image.
+
+ * Site beau https://www.logitech.com/fr-ca
+
+  -  Quelle est votre première impression du site :
+
+			Bien plus aérer que le précédent, tu n'es pas agressé
+		de contenus et par une palette de couleurs agressantes.
+		Beaucoup plus professionnel tu peux te retrouver et 
+		l'utilisation du menu est intuitif, c'est similaire a ce qui 
+		fait sur d'autres sites qui propose des produits.
+
+  -  À quels besoins le site web cherche à remplir ? :
+  
+			La vente et/ou la promotion de produits/matériel informatique de la marque Logitech destiné autant pour les particuliers que les entreprises.
+		La promotion est plus une mise en avant des produits/modèles les plus récents de chaque catégorie.
+
+
+  -  Quelles règles d'ergonomie le site respecte-t-il ? :
+
+			Le site web est ordonné et structurer avec un menu à l'apparence simple tout étant bien garni et intuitif a navigué.
+		Le site ne déborde pas d'information visuelle et la palette de couleurs n'est pas agressante.
+		Tu arrives sur la page et tu es capable de déterminer facilement, sans a avoir à faire des suppositions, ce qui est présenté et offert.
