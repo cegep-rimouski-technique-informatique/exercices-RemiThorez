@@ -86,9 +86,73 @@ function calculerNbJour(date1,date2)
 }
 
 
-trierTable([5,4,81,1,6,7,10,0,8,3,88,94,2,45,15])
+class Animal
+{
+    #nbPattes;
+    nom;
+    constructor(argsNom,argsNbpattes)
+    {
+        this.nbpattes = argsNbpattes;
+        this.nom = argsNom;
+    }
+
+    manger()
+    {
+        //magie l'animal a manger
+        console.log("Miam!\n")
+    }
+}
+
+class Vache extends Animal
+{
+    constructor(argsNom, argsNbpattes)
+    {
+        super(argsNom, argsNbpattes);
+    }
+
+    cris()
+    {
+        //Meuhhhhhhhhhh . . .
+        console.log("Meuhhhhhhhhhh\n");
+    }
+}
+
+class Poulet extends Animal
+{
+    constructor(argsNom, argsNbpattes)
+    {
+        super(argsNom, argsNbpattes);
+    }
+
+    cris()
+    {
+        //Cotcotcot . . .
+        console.log("CotCotCot\n");
+    }
+}
+
+class Ferme
+{
+    adresse;
+    animaux;
+    constructor(argsAdresse, argsAnimaux)
+    {
+        this.adresse = argsAdresse;
+        this.animaux = argsAnimaux;
+    }
+}
+
+function test1()
+{
+    
+    fermeStSith = new Ferme("159 rue Saint-Jaqueline Antartique-Sud", [new Vache("Bertrant",4)]);
+    console.log(fermeStSith.animaux[0].nom);
+}
+
+test1();
+trierTable([5,4,81,1,6,7,10,0,8,3,88,94,2,45,15]);
 afficherFibonacci(10);
 estPalindrome("alla");
-estPalindrome("Anticonstitutionnelement")
+estPalindrome("Anticonstitutionnelement");
 imprimerN1a100();
 
