@@ -12,7 +12,7 @@ nav a { border-bottom: 1px solid rgba(255,255,255,.3); color: white; display: bl
 /* Ajouter vos modifications à partir d'ici */
 
 main{  
-   display: flex;
+   display: flex;.
    flex-direction: row;
    
 }
