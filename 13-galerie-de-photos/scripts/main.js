@@ -17,7 +17,7 @@ function afficherThumbBar()
         let liImg = document.createElement("li");
         let image = document.createElement("img")
 
-        let srcImg = $`images/pic{i}.jpg`;
+        let srcImg = "images/pic"+i+".jpg";
         image.setAttribute("src", srcImg);
 
         image.setAttribute("onclick", "displayedImage.src = this.src")
