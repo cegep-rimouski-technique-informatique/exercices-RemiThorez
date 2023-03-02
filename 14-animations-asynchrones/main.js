@@ -52,6 +52,12 @@ animer(lesAnimations[0], prochain);
 function animer(item, callback) 
 {
   item.animate(spadeTumbling, spadeTiming);
-  callback(item).delay(2000);
+  callback(item)
 }
+
+
+
+
+
+//code corrections
 
